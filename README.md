@@ -48,6 +48,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline rating
 </p>
 
 </div>
+
 ## 📚 Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 ```mongodb
