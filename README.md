@@ -7,6 +7,12 @@
 # Airline Quality Scraping
 [![scrape_hashtag](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml)
 
+<p align="justify
+    
+**Menu**
+
+</p>
+
 [Tentang](#airplane-tentang)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
@@ -70,6 +76,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 ```
 ## :bar_chart: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
++ [Airline Data Scraping and Visualization](https://rpubs.com/rizky_ardhani/airline_scraping)
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
