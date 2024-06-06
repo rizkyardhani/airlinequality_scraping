@@ -19,15 +19,23 @@
 
 </div>
 
-## ✈️ : Tentang
+## ✈️ Tentang
 
 **Apa itu Airline Quality?**
 
-## ✍️ : Deskrpsi
+## ✍️ Deskrpsi
 
-## 📚 : Dokumen
+## 📚 Dokumen
+Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
+{
+"_id":{"$oid":"66615b123e85a9bd7e082582"},
+"airline":"Shanghai Airlines",
+"score":"5",
+"total_review":"76"
+}
 
-## 📊 : Visualiasi Scraping
+## 📊 Visualiasi Scraping
+Berikut merupakan link visualisasi data dari hasil scraping : 
 
-## 🐼 : Pengembang
-+ [Rizky Ardhani](G1501231074)
+## 🐼 Pengembang
++ [Rizky Ardhani](https://github.com/rizkyardhani/)(G1501231074)
