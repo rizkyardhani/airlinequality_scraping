@@ -4,19 +4,30 @@
 
 <div align="center">
     
-# **Airline Quality Scraping**
+# Airline Quality Scraping
 [![scrape_hashtag](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml)
 
 [Tentang](#airplane-tentang)
 •
 [Deskripsi](#writing_hand-deskripsi)
 •
-[Hasil Scraping](#paperclips-hasil-scraping)
-•
 [Dokumen](#books-dokumen)
 •
-[Visualisasi](#bar_chart-visualisasi)
+[Visualisasi Scraping](#bar_chart-visualisasi-scraping)
 •
 [Pengembang](#panda_face-pengembang)
 
 </div>
+
+## ✈️ : Tentang
+
+**Apa itu Airline Quality?**
+
+## ✍️ : Deskrpsi
+
+## 📚 : Dokumen
+
+## 📊 : Visualiasi Scraping
+
+## 🐼 : Pengembang
++ [Rizky Ardhani](G1501231074)
