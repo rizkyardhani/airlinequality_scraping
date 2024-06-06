@@ -15,6 +15,8 @@
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
+[PPT](#computer-PPT)
+•
 [Pengembang](#panda_face-pengembang)
 
 </div>
@@ -68,6 +70,9 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 ```
 ## :bar_chart: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
+
+## :computer: PPT
+Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 
 ## :panda_face: Pengembang
 + [Rizky Ardhani](https://github.com/rizkyardhani/) (G1501231074)
