@@ -30,7 +30,7 @@ Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang di
 
 <p align="center">
   <img width="30%" height="20%" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
-  <img width="30%" height="40%" src="https://cdn0-production-images-kly.akamaized.net/9rFjkRK9b7zdb3jLF2Sm59h4Y0E=/1200x900/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4236864/original/098762400_1669196132-IMG-20221123-WA0049.jpg">
+  <img width="30%" height="40%" src="https://backpackerjakarta.com/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-27-at-11.41.11dsdsdsd.jpg">
   <img width="30%" height="20%" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
 
