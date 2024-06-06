@@ -23,15 +23,15 @@
 
 **Apa sih Airline Quality itu?**
 
-<p align="center">
-  <img width="30%" height="40%" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
-  <img width="30%" height="40%" src="https://akcdn.detik.net.id/visual/2018/11/03/4010ab35-7bd4-4f2c-873f-01bf634fc301_169.jpeg?w=650">
-  <img width="30%" height="40%" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
-</p>
-
 <p align="justify">
 Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh sebuah maskapai penerbangan kepada penumpangnya. 
 Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
+</p>
+
+<p align="center">
+  <img width="30%" height="40%" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
+  <img width="30%" height="40%" src="https://cms.disway.id/uploads/3dec5008e901ad52013ad523a668dbc0.jpeg">
+  <img width="30%" height="40%" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
 
 ## ✍️ Deskripsi Project
