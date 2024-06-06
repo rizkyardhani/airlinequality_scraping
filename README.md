@@ -66,7 +66,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 "total_review":"76"
 }
 ```
-## :bar_chart-visualisasi: Visualiasi Data Scraping
+## :bar_chart: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
 
 ## :panda_face: Pengembang
