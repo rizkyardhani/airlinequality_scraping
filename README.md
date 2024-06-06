@@ -19,7 +19,7 @@
 
 </div>
 
-## ✈️ Tentang
+## :ariplane: Tentang
 
 **Apa sih Airline Quality itu?**
 
@@ -34,7 +34,7 @@ Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang di
   <img width="220" height="150" src="https://asset.kompas.com/crops/3nFagQTlz7N4kQ_7jwSEVJ9UXQ0=/0x0:0x0/750x500/data/photo/2021/10/26/61779fa7b2801.jpg">
 </p>
 
-## ✍️ Deskripsi Project
+## :writing_hand: Deskripsi Project
 
 <p align="center" width="80%">
   <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
@@ -56,7 +56,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline rating
 
 </div>
 
-## 📚 Dokumen
+## :books: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 ```mongodb
 {
@@ -66,8 +66,8 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 "total_review":"76"
 }
 ```
-## 📊 Visualiasi Data Scraping
+## :bar_chart-visualisasi: Visualiasi Data Scraping
 Berikut merupakan link data visualisasi dari hasil scraping : 
 
-## 🐼 Pengembang
+## :panda_face: Pengembang
 + [Rizky Ardhani](https://github.com/rizkyardhani/) (G1501231074)
