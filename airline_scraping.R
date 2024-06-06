@@ -14,7 +14,7 @@ total_review = page_airline%>% html_nodes(".clearfix+ .clearfix .aggregateColumn
 
 airline_ratings = data.frame (airline, score, total_review, stringsAsFactors = FALSE)
 
-choose = sample(1:564,10,replace=F)
+choose = sample(1:564,15,replace=F)
 
 data_airline = airline_ratings[choose,]
 
