@@ -27,15 +27,16 @@
 
 ## 📚 Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
+```mongodb
 {
 "_id":{"$oid":"66615b123e85a9bd7e082582"},
 "airline":"Shanghai Airlines",
 "score":"5",
 "total_review":"76"
 }
-
+```
 ## 📊 Visualiasi Scraping
 Berikut merupakan link visualisasi data dari hasil scraping : 
 
 ## 🐼 Pengembang
-+ [Rizky Ardhani](https://github.com/rizkyardhani/)(G1501231074)
++ [Rizky Ardhani](https://github.com/rizkyardhani/) (G1501231074)
