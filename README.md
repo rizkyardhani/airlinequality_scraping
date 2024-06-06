@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-    <img width="80%" src="https://cdns.klimg.com/merdeka.com/i/w/news/2015/12/31/644528/540x270/lima-pesawat-ini-mendarat-darurat-karena-sebab-paling-konyol-sejagat.jpg">
+    <img width="70%" src="https://cdns.klimg.com/merdeka.com/i/w/news/2015/12/31/644528/540x270/lima-pesawat-ini-mendarat-darurat-karena-sebab-paling-konyol-sejagat.jpg">
 </p>
 
 <div align="center">
