@@ -37,7 +37,7 @@ Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang di
 ## ✍️ Deskripsi Project
 
 <p align="center" width="80%">
-  <img width="800" height="500" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+  <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
 </p>
 
 <div align="center">
