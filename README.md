@@ -30,8 +30,10 @@ Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang di
 ## ✍️ Deskrpsi
 
 <p align="center">
-  <img width="50%" src="https://allvectorlogo.com/skytrax-logo/">
+  <img width="50%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
 </p>
+
+<div align="center">
 
 <p align="justify">
 Pada project kali ini, yaitu melakukan scraping pada website [airlinequality.com](https://www.airlinequality.com/). Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
