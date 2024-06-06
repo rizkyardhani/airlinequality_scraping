@@ -9,7 +9,7 @@
 
 [Tentang](#airplane-tentang)
 •
-[Deskripsi](#writing_hand-deskripsi)
+[Deskripsi Project](#writing_hand-deskripsi-project)
 •
 [Dokumen](#books-dokumen)
 •
@@ -27,7 +27,14 @@ Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh se
 Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
 </p>
 
-## ✍️ Deskripsi
+<p align="center">
+  <img width="30%" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
+  <img width="30%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+  <img width="30%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+</p>
+
+
+## ✍️ Deskripsi Project
 
 <p align="center" width="80%">
   <img width="70%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
