@@ -19,7 +19,7 @@
 
 </div>
 
-## :ariplane: Tentang
+## :airplane: Tentang
 
 **Apa sih Airline Quality itu?**
 
