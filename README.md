@@ -22,17 +22,17 @@
 ## ✈️ Tentang
 
 **Apa sih Airline Quality itu?**
+
+<p align="center">
+  <img width="30%" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
+  <img width="30%" src="https://akcdn.detik.net.id/visual/2018/11/03/4010ab35-7bd4-4f2c-873f-01bf634fc301_169.jpeg?w=650">
+  <img width="30%" src="https://www.menpan.go.id/site/images/berita/2023/20230109_-_Bandara_Soekarno-Hatta_Mendominasi_Pasar_Penerbangan_di_ASEAN.jpg">
+</p>
+
 <p align="justify">
 Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh sebuah maskapai penerbangan kepada penumpangnya. 
 Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
 </p>
-
-<p align="center">
-  <img width="30%" src="https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90">
-  <img width="30%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
-  <img width="30%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
-</p>
-
 
 ## ✍️ Deskripsi Project
 
