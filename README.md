@@ -13,7 +13,7 @@
 •
 [Dokumen](#books-dokumen)
 •
-[Visualisasi Scraping](#bar_chart-visualisasi-scraping)
+[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
 [Pengembang](#panda_face-pengembang)
 
@@ -21,9 +21,21 @@
 
 ## ✈️ Tentang
 
-**Apa itu Airline Quality?**
+**Apa sih Airline Quality itu?**
+Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh sebuah maskapai penerbangan kepada penumpangnya. 
+Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
 
 ## ✍️ Deskrpsi
+
+<p align="center">
+  <img width="600" height="400" src="https://www.airlinequality.com/wp-content/themes/airlinequality2014new/library/images/skytrax.svg">
+</p>
+
+Pada project kali ini, yaitu melakukan scraping pada website [airlinequality.com](https://www.airlinequality.com/). Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+
+Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam industri penerbangan, dan digunakan oleh penumpang serta profesional industri untuk membuat keputusan yang lebih baik terkait perjalanan udara.
+
+Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline ratings, lounge ratings, seat ratings dan airport ratings.
 
 ## 📚 Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
@@ -35,8 +47,8 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 "total_review":"76"
 }
 ```
-## 📊 Visualiasi Scraping
-Berikut merupakan link visualisasi data dari hasil scraping : 
+## 📊 Visualiasi Data Scraping
+Berikut merupakan link data visualisasi dari hasil scraping : 
 
 ## 🐼 Pengembang
 + [Rizky Ardhani](https://github.com/rizkyardhani/) (G1501231074)
