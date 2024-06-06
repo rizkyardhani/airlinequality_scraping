@@ -30,7 +30,7 @@ Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang di
 ## ✍️ Deskrpsi
 
 <p align="center">
-  <img width="50%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
+  <img width="70%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
 </p>
 
 <div align="center">
