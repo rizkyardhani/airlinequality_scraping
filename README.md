@@ -65,7 +65,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline rating
 </div>
 
 ## :books: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 ```mongodb
 {
 "_id":{"$oid":"66615b123e85a9bd7e082582"},
