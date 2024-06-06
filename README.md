@@ -27,7 +27,7 @@ Airline quality mengacu pada tingkat layanan dan kinerja yang disediakan oleh se
 Kualitas ini biasanya dievaluasi dan dinilai berdasarkan berbagai faktor yang diantaranya mencakup keselamatan, kenyamanan, efisiensi, dan layanan pelanggan.
 </p>
 
-## ✍️ Deskrpsi
+## ✍️ Deskripsi
 
 <p align="center" width="80%">
   <img width="70%" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
@@ -47,6 +47,7 @@ Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam 
 Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline ratings, lounge ratings, seat ratings dan airport ratings.
 </p>
 
+</div>
 ## 📚 Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline quality :
 ```mongodb
