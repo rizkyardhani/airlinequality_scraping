@@ -59,7 +59,11 @@ Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam 
 </p>
 
 <p align="justify">
-Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan airline ratings, lounge ratings, seat ratings dan airport ratings.
+Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan 
+    
+    + **airline ratings** meliputi kenyamanan kursi maskapai penerbangan, layanan staf kabin, hiburan dalam pesawat, katering di dalam pesawat, layanan bandara, dan harga tiket pesawat.
+    
+    lounge ratings, seat ratings dan airport ratings.
 </p>
 
 </div>
