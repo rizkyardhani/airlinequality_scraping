@@ -87,8 +87,8 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 }
 ```
 ## :bar_chart: Data Scraping Analysis
-Berikut merupakan link Rpubs data scraping analysis : 
-+ [Rpubs Airline Data Scraping and Visualization](https://rpubs.com/rizky_ardhani/airline_scraping)
+Berikut merupakan link RPubs data scraping analysis : 
++ [RPubs Airline Data Scraping and Visualization](https://rpubs.com/rizky_ardhani/airline_scraping)
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
