@@ -72,7 +72,9 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 + **airport ratings** meliputi kebersihan bandara, waktu tunggu, outlet/gerai pusat belanja, restoran/kafe, konektivitas wifi dan layanan staf.
 </p>
 
-
+<p align="justify">
+Tools yang digunakan pada project ini ialah RStudio, MongoDB dan Github.
+</p>
 
 ## :books: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
