@@ -86,8 +86,8 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 "total_review":"76"
 }
 ```
-## :bar_chart: Visualiasi Data Scraping
-Berikut merupakan link data visualisasi dari hasil scraping : 
+## :bar_chart: Data Scraping Analysis
+Berikut merupakan link Rpubs data scraping analysis : 
 + [Rpubs Airline Data Scraping and Visualization](https://rpubs.com/rizky_ardhani/airline_scraping)
 
 ## :computer: PPT
