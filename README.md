@@ -92,6 +92,6 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 
 ## :computer: PPT
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
-
++ [PPT Airline Data Scraping and Visualization](https://drive.google.com/file/d/1XNavzODFR1SVx301sqGQxmEhVS1bmjts/view?usp=sharing) 
 ## :panda_face: Pengembang
 + [Rizky Ardhani](https://github.com/rizkyardhani/) (G1501231074)
