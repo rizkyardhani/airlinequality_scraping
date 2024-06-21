@@ -19,9 +19,9 @@
 •
 [Dokumen](#books-dokumen)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[Data Scraping Analysis](#bar_chart-data-scraping-analysis)
 •
-[PPT](#computer-PPT)
+[PPT Project](#computer-PPT-project)
 •
 [Pengembang](#panda_face-pengembang)
 
@@ -90,7 +90,7 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
 Berikut merupakan link RPubs data scraping analysis : 
 + [RPubs Airline Data Scraping and Visualization](https://rpubs.com/rizky_ardhani/airline_scraping)
 
-## :computer: PPT
+## :computer: PPT Project
 Berikut adalah link powerpoint berkaitan dengan project yang telah dibuat :
 + [PPT Airline Data Scraping and Visualization](https://drive.google.com/file/d/1XNavzODFR1SVx301sqGQxmEhVS1bmjts/view?usp=sharing)
   
